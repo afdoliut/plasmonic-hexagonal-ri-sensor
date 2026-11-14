@@ -9,5 +9,25 @@ K.M.S. Hasan, S. Sazid and N.M.N. Nasser (2023). Numerical analysis of an asymme
 
 ## Repository Structure
 
-
+plasmonic-hexagonal-ri-sensor/
+├── README.md
+├── comsol_models/
+│   └── Ring_Resonator_V1.mph
+└── matlab_scripts/
+    ├── FOM_Sensitivity.m
+    ├── G_Sweep.m
+    ├── L_Sweep.m
+    ├── N1_Sweep.m
+    ├── W_Sweep.m
+    ├── plot_transmittance_spectra.m
+    ├── plot_resonance_peaks.m
+    ├── plot_transmittance_sweep_2.m
+    ├── fom_data.mat
+    ├── g_sweep_data.mat
+    ├── L_sweep_data.mat
+    ├── ri_sweep_data.mat
+    ├── w_sweep_data.mat
+    ├── transmittance_data.mat
+    ├── resonance_peaks_n_minus_1.mat
+    └── transmittance_sweep_2.mat
 
